@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1671150516 source:d:\proyectosdeclase\prueba\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	"problema2.h"
+
+1671150196 d:\proyectosdeclase\prueba\problema2.h
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+

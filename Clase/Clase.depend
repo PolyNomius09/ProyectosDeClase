@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668816838 source:c:\users\rafa\desktop\proyectosdeclase\clase\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+

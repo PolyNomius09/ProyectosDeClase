@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668819630 source:d:\proyectosdeclase\tsuru_tuneado\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1671237370 source:e:\proyectosdeclase\examen20lor\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	"examen20.h"
+
+1671237510 e:\proyectosdeclase\examen20lor\examen20.h
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+

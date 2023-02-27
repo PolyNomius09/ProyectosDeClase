@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1671046098 source:d:\proyectosdeclase\c3lular\main.cpp
+	<iostream>
+	<stdlib.h>
+	"celularhdp.h"
+
+1671082616 d:\proyectosdeclase\c3lular\celularhdp.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1669075676 source:c:\users\rafa\desktop\proyectosdeclase\problemasdiapos\problemasdiapos\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<iomanip>
+

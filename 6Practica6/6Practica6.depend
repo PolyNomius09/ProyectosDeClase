@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1671083782 source:d:\proyectosdeclase\6practica6\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	"problema2.h"
+
+1670565850 d:\proyectosdeclase\6practica6\funcionezzzz.h
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1671083918 d:\proyectosdeclase\6practica6\problema2.h
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+

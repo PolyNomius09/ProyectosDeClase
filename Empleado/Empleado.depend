@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1669941844 source:d:\proyectosdeclase\empleado\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1669942508 source:e:\proyectosdeclase\empleado\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+

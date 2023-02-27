@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1671047066 source:e:\proyectosdeclase\herencias\main.cpp
+	<iostream>
+	"herencias.h"
+
+1671046314 e:\proyectosdeclase\herencias\herencias.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+

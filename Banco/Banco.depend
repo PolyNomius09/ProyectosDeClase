@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1669178874 source:c:\users\rafa\desktop\proyectosdeclase\banco\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1669940924 source:d:\proyectosdeclase\banco\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
